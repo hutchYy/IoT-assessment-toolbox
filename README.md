@@ -22,8 +22,7 @@ All scripts, utilities needed for your IoT assessments
 | GNURadio | GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios. | |
 | GQRX | Gqrx is an open source software defined radio receiver (SDR) powered by the GNU Radio and the Qt graphical toolkit. | |
 | GR-GSM | The aim is to provide set of tools for receiving information transmitted by GSM equipment/devices. | |
-| GR-Paint | The goal of this project is to build a software-defined OFDM transmitter |
-that "paints" monochrome images into the waterfall of a receiver. | https://github.com/drmpeg/gr-paint |
+| GR-Paint | The goal of this project is to build a software-defined OFDM transmitter that "paints" monochrome images into the waterfall of a receiver. | https://github.com/drmpeg/gr-paint |
 | HackRF Tools | Software defined radio peripheral - utilities. | |
 | Inspectrum | Inspectrum is a tool for analysing captured signals, primarily from software-defined radio receivers. |  |
 | JADx | Dex to Java decompiler. | |
