@@ -50,4 +50,6 @@ Most of the tools can be installed using the **apt** packet manager.
 
 ### Apt
 
+```Bash
 sudo apt install arduino picocom bettercap binwalk rizin-cutter dump1090-mutability gnuradio gqrx-sdr gr-gsm hackrf inspectrum jadx kalibrate-rtl nmap radare2 rfcat routersploit python3-scapy ubertooth
+```
