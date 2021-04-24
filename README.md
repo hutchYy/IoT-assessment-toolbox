@@ -42,6 +42,7 @@ All scripts, utilities needed for your IoT assessments
 | Spectrum Painter | A tool to converts images to IQ streams that look like this when viewed in a waterfall plot. | https://github.com/polygon/spectrum_painter |
 | Ubertooth tools- | Ubertooth is an open source wireless development platform suitable for Bluetooth experimentation. | |
 | URH (Universal Radio Hacker) | The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. | https://github.com/jopohl/urh#Installation |
+|xortool| A tool to do some xor analysis |https://github.com/hellman/xortool
 
 ## Installation
 Most of the tools can be installed using the **apt** packet manager.
